@@ -1,5 +1,7 @@
 # PortofolioDataAnalis
-Portofolio
+Portofolio Data analis 
+Data set From kaggle : https://www.kaggle.com/shivamb/netflix-shows
+dataset kaggel by :Shivam Bansal
 
 
     👋 Hi, I’m @GagahLanangR
